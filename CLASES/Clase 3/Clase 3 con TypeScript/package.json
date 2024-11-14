@@ -1,5 +1,5 @@
 {
-  "name": "my-react-app",
+  "name": "clase-3-con-typescript",
   "private": true,
   "version": "0.0.0",
   "type": "module",
@@ -10,9 +10,6 @@
     "preview": "vite preview"
   },
   "dependencies": {
-    "boostrap": "^2.0.0",
-    "bootstrap": "^5.3.3",
-    "bootswatch": "^5.3.3",
     "react": "^18.3.1",
     "react-dom": "^18.3.1"
   },
