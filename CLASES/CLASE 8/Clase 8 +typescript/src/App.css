@@ -16,3 +16,7 @@ body{
   place-items: center;
   gap:1rem;
 }
+.buttons-container{
+  display:flex;
+  gap:1rem; 
+}

@@ -18,8 +18,10 @@ function Counter(){
         <main className="count-container">
           <h2>Contador:</h2>
           <span>{count}</span>
+          <div className="buttons-container">
           <button onClick={increaseCount} className="buttons-count">+</button>
           <button onClick={decreaseCount} className="buttons-count">-</button>
+          </div>
         </main>
       </>
     );
